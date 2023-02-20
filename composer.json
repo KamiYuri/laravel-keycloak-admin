@@ -1,0 +1,24 @@
+{
+    "name": "kamiyuri/laravel-keycloak-admin",
+    "type": "library",
+    "description": "Keycloak Admin Rest API for Laravel/Lumen",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Kamiyuri\\LaravelKeycloakAdmin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "KamiYuri",
+            "email": "dung.hv194254@sis.hust.edu.vn"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/KamiYuri/laravel-keycloak-admin.git"
+        }
+    ],
+    "require": {}
+}
